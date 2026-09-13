@@ -320,6 +320,10 @@ Playwright
   ↓
 Yandex Maps
 Такой вариант проще поддерживать, чем постоянно повторять внутреннюю клиентскую логику Яндекса
-<img width="749" height="520" alt="{064BFA6D-C7BB-4BF7-A749-BB0BAB60A43D}" src="https://github.com/user-attachments/assets/4620db7c-c15e-4936-9818-bf941754c5e4" />
-<img width="480" height="320" alt="{C875F927-A286-40D7-AEDE-9523D11C37FE}-1" src="https://github.com/user-attachments/assets/73f66722-4e6e-4c9d-8d29-4c402e4d6379" />
-<img width="849" height="884" alt="{36360846-3936-4CA0-B3F0-036C5CE88A96}" src="https://github.com/user-attachments/assets/44088a7e-f210-4215-bc5c-4421810f30ef" />
+
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/4620db7c-c15e-4936-9818-bf941754c5e4" alt="Экран логина" width="800" style="width:100%; max-width:800px; height:auto; display:block; margin:0 auto 16px auto;" />
+  <img src="https://github.com/user-attachments/assets/73f66722-4e6e-4c9d-8d29-4c402e4d6379" alt="Страница настроек" width="800" style="width:100%; max-width:800px; height:auto; display:block; margin:0 auto 16px auto;" />
+  <img src="https://github.com/user-attachments/assets/44088a7e-f210-4215-bc5c-4421810f30ef" alt="Страница отзывов" width="800" style="width:100%; max-width:800px; height:auto; display:block; margin:0 auto 16px auto;" />
+</p>
