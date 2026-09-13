@@ -325,7 +325,7 @@ Yandex Maps
 ## Скриншоты
 
 <p align="center">
-  <img src="..." alt="Экран логина" ... />
-  <img src="..." alt="Страница настроек" ... />
-  <img src="..." alt="Страница отзывов" ... />
+  <img src="https://github.com/user-attachments/assets/4620db7c-c15e-4936-9818-bf941754c5e4" alt="Экран логина" width="800" style="width:100%; max-width:800px; height:auto; display:block; margin:0 auto 16px auto;" />
+  <img src="https://github.com/user-attachments/assets/73f66722-4e6e-4c9d-8d29-4c402e4d6379" alt="Страница настроек" width="800" style="width:100%; max-width:800px; height:auto; display:block; margin:0 auto 16px auto;" />
+  <img src="https://github.com/user-attachments/assets/44088a7e-f210-4215-bc5c-4421810f30ef" alt="Страница отзывов" width="800" style="width:100%; max-width:800px; height:auto; display:block; margin:0 auto 16px auto;" />
 </p>
