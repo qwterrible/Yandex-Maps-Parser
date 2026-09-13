@@ -1,0 +1,32 @@
+# Composer
+/vendor
+composer.lock
+
+# Node
+/node_modules
+npm-debug.log
+yarn-error.log
+/public/build
+/public/hot
+/public/storage
+
+# Laravel
+/storage/*.key
+/storage/logs/*.log
+.env
+.env.backup
+.env.production
+.phpunit.result.cache
+Homestead.json
+Homestead.yaml
+auth.json
+
+# IDE
+/.idea
+/.vscode
+*.sublime-project
+*.sublime-workspace
+
+# OS
+.DS_Store
+Thumbs.db
